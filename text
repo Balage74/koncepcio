@@ -1,0 +1,68 @@
+koncepcio:																max létszámnál		5 játékosnál		játékos átlag		jó játékos
+zpsp:
+zombi fertőzés/kill után kap 1 ammo  		1 körben 					max 31				max 4					átlag 2-3		5-10
+nemesis kill után 1 ammo					1 kör						max 31				max 4					10-31			20-31				
+
+
+
+
+
+
+
+ember  damageután kap ammo (1000/1)			1 körben normál fertőzés	max 120				max 32					átlag 6- 10		30-50
+											raj/többszörös				max 120				max 20					átlag 6-10		30-50
+											nemesis kör					max 60				max 10					átlag 0-30		30-50
+											
+											
+											
+											
+változtatás: zombie infect reward 3
++z+h    boss reward bekapcsolva úgy átlagosan 5-30 ammo /kör minden zombinak
+											  5-50 ammo/kör minden embernek
++5 percenként +5 ammo a time rewardtól
+boss esetén ha nyer akkor +5 ammo az extra rewardtól											  
+ember alapcuccok árai 5-10 ammo
+ember extra cuccok árai 20-50 ammo
+
+zombi alap cuccok árai 5-10 ammo
+zombi extra cuccok árai 20-50 ammo
+
+boss cuccok árai 20-50 ammo
+
+leap(time 30s) 20 ammo			zombie nemesis berserker
+multijump(time 30s) 20 ammo		zombie nemesis assassin predator
+healt(time 60s)  20 ammo		zombie predator wesker
+regenerate(time 60s) 30 ammo	zombie sniper bombardier
+lockerz(time 30s)	20 ammo		zombie spy assassin
+scream(time 60s)	20 ammo		zombie dragon berserker
+invisible(time 30s)		30 ammo zombie predator spy
+speed(time 10s)		5 ammo		human bombardier wesker
+
+
+antidote 10 ammo
+madness(time 10s) 5 ammo
+inf bomb 20 ammo 	(boss sokat zombi 1-et)				zombie bombardier
+kill bomb 30 ammo (boss csak 1 et)
+
+
+silent hill radio 1 ammo
+armor			5 ammo		
+deadly shot(30sec)  30  ammo		
+norecoil(30 sec)	20 ammo
+quad damage			40 ammo
+unlimited clip(round) 40 ammo
+lasermine			2 ammo
+sandbag(5db)		2 ammo
+
+egyéb :
+buy boss 	100 ammo
+plasma rifle 50 ammo
+nitrogen galil 100 ammo
+minigun 	50 ammo
+
+
+
+
+
+
+
