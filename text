@@ -32,17 +32,20 @@ boss cuccok árai 20-50 ammo
 leap(time 30s) 20 ammo			zombie nemesis berserker
 multijump(time 30s) 20 ammo		zombie nemesis assassin predator
 healt(time 60s)  20 ammo		zombie predator wesker
-regenerate(time 60s) 30 ammo	zombie sniper bombardier
+regenerate(time 60s) 30 ammo	        zombie bombardier dragon kaszás iceman
 lockerz(time 30s)	20 ammo		zombie spy assassin
 scream(time 60s)	20 ammo		zombie dragon berserker
 invisible(time 30s)		30 ammo zombie predator spy
-speed(time 10s)		5 ammo		human bombardier wesker
-
+speed(time 10s human tobbi round)5 ammo		human bombardier wesker alien
+fire                         15 ammo    zombie dragon
+split                   10 ammo         zombie alien
+fly                      10 ammo          dragon
+speed    (10sec)               5 ammo   bárki
 
 antidote 10 ammo
 madness(time 10s) 5 ammo
-inf bomb 20 ammo 	(boss sokat zombi 1-et)				zombie bombardier
-kill bomb 30 ammo (boss csak 1 et)
+inf bomb 20 ammo 	(boss sokat zombi 1-et)	zombie bombardier
+kill bomb 30 ammo (boss csak 1 et zombi 1et) zombi nemesis
 
 
 silent hill radio 1 ammo
@@ -50,19 +53,34 @@ armor			5 ammo
 deadly shot(30sec)  30  ammo		
 norecoil(30 sec)	20 ammo
 quad damage			40 ammo
-unlimited clip(round) 40 ammo
+unlimited clip(round) 40 ammo                       survivor wesker
 lasermine			2 ammo
 sandbag(5db)		2 ammo
 
 egyéb :
 buy boss 	100 ammo
-plasma rifle 50 ammo
-nitrogen galil 100 ammo
-minigun 	50 ammo
+plasma rifle 50 ammo  sebzés csak fej esetén 400
+nitrogen galil 100 ammo sebzés 2*
+minigun 	50 ammo   sebzés 3*                 survivor 
+tüzes jeges dual 50 ammo  sebzés 2*                 wesker
+golden awp    40 ammo  sebzés 4*                    sniper
+golden  deagle 20 ammo sebzés 4*                     spy
+golden crowbar 30 ammo sebzés 400
+
+nemesis speed(0ammo) leap(0 ammo) multijump kill bomb(1)
+survivor  speed(0ammo) minigun(0 ammo) unlimited clip
+assassin  speed multijump(0ammo) lockerz
+sniper    speed goldenawp(0ammo) unlimited clip deadly shot
+spy        speed golden deagle(0 ammo) invisible
+predator   speed multijump health invisible(0ammo)
+bombardier speed infbomb(0ammo) regenerate
+dragon speed fly(0ammo)regenerate fire(0ammo)
+wesker speed tüzesjeges dual(0ammo) unlimited ammo
+berserker speed golden crowbar(0ammo)
 
 
-
-
-
-
-
+uj típusok:
+alien  speed split(0ammo) regenerate(0 ammo)
+plasmaman speed(0ammo) plasma rifle(0ammo)
+kaszás speed (0ammo) quad damage (0ammo) regenerate viszont kevés hp
+iceman nitrogen galil(0ammo) regenerate unlimited ammo viszont kevés  hp
