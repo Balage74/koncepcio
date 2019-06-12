@@ -3,12 +3,6 @@ zpsp:
 zombi fertőzés/kill után kap 1 ammo  		1 körben 					max 31				max 4					átlag 2-3		5-10
 nemesis kill után 1 ammo					1 kör						max 31				max 4					10-31			20-31				
 
-
-
-
-
-
-
 ember  damageután kap ammo (1000/1)			1 körben normál fertőzés	max 120				max 32					átlag 6- 10		30-50
 											raj/többszörös				max 120				max 20					átlag 6-10		30-50
 											nemesis kör					max 60				max 10					átlag 0-30		30-50
@@ -108,26 +102,26 @@ split			4500		230		1.2		0.5		split		split/10sec
 fly			4000		220		0.8		1.0		fly		30sec fly/10sec
  
  ZOMBI BOSS CLASSOK:
-nemesis			hc*2000		250		?		?		leap/multijump
-assassin
-predator
-bombardier
-dragon
+nemesis			hc*2000		250		?		?				leap/multijump
+assassin		hc*1000		250								multijump
+predator		hc*500		200								invisible
+bombardier		hc*400		200								speed
+dragon			hc*600		220								fly
 +
-alien
-cerberus
-
+alien			hc*800		280								speed,leap,multijump,split
+cerberus		hc*400		300								speed,madness
+csernobil fly		hc*200		200								fly, split
 
 
 HUMAN BOSS CLASSOK:
-survivor
-sniper
-spy
-wesker
-berserker
+survivor		z*400		350								speed,minigun,unlimited ammo
+sniper			z*250		250								regenerate,goldenawp,unlimited ammo
+spy			z*100		220								invisible, goldenusp,goldenscout,crowbar,norecoil
+wesker			z*100		240								regenerate,goldendeagle,unlimited ammo
+berserker		z*150		240								healing, fireandicepistol,
 +
-plasmaman
-iceman
+plasmaman		100		240								speed,plasmarifle,scream
+iceman			100		200								madness,frozengalil
 
 REWARDS GLOBAL
 
@@ -140,7 +134,7 @@ REWARDS HUMANS
 dmg1000	  /	1ammo
 
 ZOMBIE BOSS REWARDS
-kill/		1ammo
+kill/		3ammo
 
 HUMAN BOSS REWARD
 1000dmg	/	1ammo
