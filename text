@@ -108,7 +108,7 @@ split			4500		230		1.2		0.5		split		split/10sec
 fly			4000		220		0.8		1.0		fly		30sec fly/10sec
  
  ZOMBI BOSS CLASSOK:
-nemesis
+nemesis			hc*2000		250		?		?		leap/multijump
 assassin
 predator
 bombardier
@@ -128,4 +128,24 @@ berserker
 +
 plasmaman
 iceman
+
+REWARDS GLOBAL
+
+5min	/	5ammo
+
+REWARDS ZOMBIES
+kill/infect  /	3ammo
+
+REWARDS HUMANS
+dmg1000	  /	1ammo
+
+ZOMBIE BOSS REWARDS
+kill/		1ammo
+
+HUMAN BOSS REWARD
+1000dmg	/	1ammo
+
+
+
+
 
