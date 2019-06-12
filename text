@@ -84,3 +84,48 @@ alien  speed split(0ammo) regenerate(0 ammo)
 plasmaman speed(0ammo) plasma rifle(0ammo)
 kaszás speed (0ammo) quad damage (0ammo) regenerate viszont kevés hp
 iceman nitrogen galil(0ammo) regenerate unlimited ammo viszont kevés  hp
+			hp		speed		gravity		knockback	drop		tulajdonság			
+HUMAN CLASS
+human			100		240		800		----				-----------
+
+
+ZOMBIE CLASSOK:
+classic			5000		240		1.0		1.0		antidote	----------		
+big			8000		230		0.9		0.5		armor		armor/round
+hunter			4500		250		1.0		0.2		speed		----------
+vampire			4000		240		1.0		0.8		---------	+300hp/hit
+újraélesztő		4000		240		1.0		0.5		revive		revive/infect
+cerberus		100		350		1.0		0.3		madness		madness/0sec(4x/round)
+regenerator		2500		250		1.0		0.3		regenerate	regenerate/round
+healer			3500		250		1.0		0.3		heal		heal/5sec
+scream			4500		250		1.0		0.3		scream		scream/30sec
+lockerz			4500		250		1.0		0.3		lockerz		lockerz/30sec
+multijump		5000		240		1.0		0.3		multijump	multijump/jump
+leap			5000		240		1.1		0.5		leap		leap/5sec
+invisible		3500		240		1.1		0.8		invisible	invisible/30sec
+husk			4500		230		1.2		0.5		fire		fire/20sec
+split			4500		230		1.2		0.5		split		split/10sec
+fly			4000		220		0.8		1.0		fly		30sec fly/10sec
+ 
+ ZOMBI BOSS CLASSOK:
+nemesis
+assassin
+predator
+bombardier
+dragon
++
+alien
+cerberus
+
+
+
+HUMAN BOSS CLASSOK:
+survivor
+sniper
+spy
+wesker
+berserker
++
+plasmaman
+iceman
+
