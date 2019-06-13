@@ -41,21 +41,21 @@ inf bomb 				20 ammo 	(boss sokat zombi 1-et)	zombie bombardier
 kill bomb 				30 ammo 	(boss csak 1 et zombi 1et) zombi nemesis
 
 
-silent hill radio 			1 ammo
+silent hill radio (round)		1 ammo
 armor					5 ammo		
 deadly shot(30sec)  			30  ammo		
 norecoil(30 sec)			20 ammo
-quad damage				40 ammo
-unlimited clip(round) 			40 ammo                       survivor wesker
+quad damage( 20sec)			40 ammo
+unlimited clip(60sec) 			40 ammo                       survivor wesker
 lasermine				2 ammo
 sandbag(5db)				2 ammo
 
 egyéb :
 buy boss 				100 ammo
-revive					100 ammo
+revive	(csak use-ból használható)	100 ammo
 
-plasma rifle (famas)				100 ammo  sebzés csak fej esetén 400
-nitrogen galil (galil)				100 ammo sebzés 2*
+plasma rifle (famas)			100 ammo  sebzés csak fej esetén 400
+nitrogen galil (galil)			100 ammo sebzés 2*
 minigun (m249)				80 ammo   sebzés 3*                 survivor 
 tüzes jeges dual 			80 ammo  sebzés 2*                 wesker
 
