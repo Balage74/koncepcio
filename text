@@ -13,8 +13,8 @@ ember  damageután kap ammo (1000/1)			1 körben normál fertőzés	max 120				m
 változtatás: zombie infect reward 3
 +z+h    boss reward bekapcsolva úgy átlagosan 5-30 ammo /kör minden zombinak
 											  5-50 ammo/kör minden embernek
-+5 percenként +5 ammo a time rewardtól
-boss esetén ha nyer akkor +5 ammo az extra rewardtól											  
+
+
 ember alapcuccok árai 5-10 ammo
 ember extra cuccok árai 20-50 ammo
 
@@ -23,64 +23,68 @@ zombi extra cuccok árai 20-50 ammo
 
 boss cuccok árai 20-50 ammo
 
-leap(time 30s) 20 ammo			zombie nemesis berserker
-multijump(time 30s) 20 ammo		zombie nemesis assassin predator
-healt(time 60s)  20 ammo		zombie predator wesker
-regenerate(time 60s) 30 ammo	        zombie bombardier dragon kaszás iceman
-lockerz(time 30s)	20 ammo		zombie spy assassin
-scream(time 60s)	20 ammo		zombie dragon berserker
-invisible(time 30s)		30 ammo zombie predator spy
-speed(time 10s human tobbi round)5 ammo		human bombardier wesker alien
-fire                         15 ammo    zombie dragon
-split                   10 ammo         zombie alien
-fly                      10 ammo          dragon
-speed    (10sec)               5 ammo   bárki
+leap(time 30s) 				20 ammo		zombie nemesis berserker
+multijump(time 30s) 			20 ammo		zombie nemesis assassin predator
+healt(time 60s)  			20 ammo		zombie predator wesker
+regenerate(time 60s) 			30 ammo	        zombie bombardier dragon kaszás iceman
+lockerz(time 30s)			20 ammo		zombie spy assassin
+scream(time 60s)			20 ammo		zombie dragon berserker
+invisible(time 30s)			30 ammo 	zombie predator spy
+speed(time 10s human tobbi round)	5 ammo		human bombardier wesker alien
+fire                         		15 ammo    	zombie dragon
+split                   		10 ammo         zombie alien
+fly                      		10 ammo          dragon
+speed    (10sec)              		 5 ammo   	bárki
+antidote 				10 ammo
+madness(time 10s) 			5 ammo
+inf bomb 				20 ammo 	(boss sokat zombi 1-et)	zombie bombardier
+kill bomb 				30 ammo 	(boss csak 1 et zombi 1et) zombi nemesis
 
-antidote 10 ammo
-madness(time 10s) 5 ammo
-inf bomb 20 ammo 	(boss sokat zombi 1-et)	zombie bombardier
-kill bomb 30 ammo (boss csak 1 et zombi 1et) zombi nemesis
 
-
-silent hill radio 1 ammo
-armor			5 ammo		
-deadly shot(30sec)  30  ammo		
-norecoil(30 sec)	20 ammo
-quad damage			40 ammo
-unlimited clip(round) 40 ammo                       survivor wesker
-lasermine			2 ammo
-sandbag(5db)		2 ammo
+silent hill radio 			1 ammo
+armor					5 ammo		
+deadly shot(30sec)  			30  ammo		
+norecoil(30 sec)			20 ammo
+quad damage				40 ammo
+unlimited clip(round) 			40 ammo                       survivor wesker
+lasermine				2 ammo
+sandbag(5db)				2 ammo
 
 egyéb :
-buy boss 	100 ammo
-plasma rifle 50 ammo  sebzés csak fej esetén 400
-nitrogen galil 100 ammo sebzés 2*
-minigun 	50 ammo   sebzés 3*                 survivor 
-tüzes jeges dual 50 ammo  sebzés 2*                 wesker
-golden awp    40 ammo  sebzés 4*                    sniper
-golden  deagle 20 ammo sebzés 4*                     spy
-golden crowbar 30 ammo sebzés 400
+buy boss 				100 ammo
+revive					100 ammo
 
-nemesis speed(0ammo) leap(0 ammo) multijump kill bomb(1)
-survivor  speed(0ammo) minigun(0 ammo) unlimited clip
-assassin  speed multijump(0ammo) lockerz
-sniper    speed goldenawp(0ammo) unlimited clip deadly shot
-spy        speed golden deagle(0 ammo) invisible
-predator   speed multijump health invisible(0ammo)
-bombardier speed infbomb(0ammo) regenerate
-dragon speed fly(0ammo)regenerate fire(0ammo)
-wesker speed tüzesjeges dual(0ammo) unlimited ammo
-berserker speed golden crowbar(0ammo)
+plasma rifle (famas)				100 ammo  sebzés csak fej esetén 400
+nitrogen galil (galil)				100 ammo sebzés 2*
+minigun (m249)				80 ammo   sebzés 3*                 survivor 
+tüzes jeges dual 			80 ammo  sebzés 2*                 wesker
+
+golden crowbar 				30 ammo sebzés 400
+golden usp				30 ammo	sebzés 3*
+golden  deagle 				40 ammo sebzés 4*                     spy
+golden m4				40 ammo	sebzés 3*
+golden scout				30 ammo	sebzés 2*
+golden xm1014				40 ammo	sebzés 4*
+golden m249				40 ammo	sebzés	3*
+golden awp    				50 ammo sebzés 4*                    sniper
 
 
-uj típusok:
-alien  speed split(0ammo) regenerate(0 ammo)
-plasmaman speed(0ammo) plasma rifle(0ammo)
-kaszás speed (0ammo) quad damage (0ammo) regenerate viszont kevés hp
-iceman nitrogen galil(0ammo) regenerate unlimited ammo viszont kevés  hp
+nemesis 	speed(0ammo) leap(0 ammo) multijump kill bomb(1)
+survivor  	speed(0ammo) minigun(0 ammo) unlimited clip
+assassin  	speed multijump(0ammo) lockerz
+sniper    	speed goldenawp(0ammo) unlimited clip deadly shot
+spy        	speed golden deagle(0 ammo) invisible
+predator   	speed multijump health invisible(0ammo)
+bombardier 	speed infbomb(0ammo) regenerate
+dragon 		speed fly(0ammo)regenerate fire(0ammo)
+wesker 		speed tüzesjeges dual(0ammo) unlimited ammo
+berserker 	speed golden crowbar(0ammo)
+
+
+
 			hp		speed		gravity		knockback	drop		tulajdonság			
 HUMAN CLASS
-human			100		240		800		----				-----------
+human			100		240		800		----		goldenxm1014	-----------
 
 
 ZOMBIE CLASSOK:
@@ -102,26 +106,26 @@ split			4500		230		1.2		0.5		split		split/10sec
 fly			4000		220		0.8		1.0		fly		30sec fly/10sec
  
  ZOMBI BOSS CLASSOK:
-nemesis			hc*2000		250		?		?				leap/multijump
-assassin		hc*1000		250								multijump
-predator		hc*500		200								invisible
-bombardier		hc*400		200								speed
-dragon			hc*600		220								fly
+nemesis			hc*2000		250		?		?		leap/multijump	leap/multijump
+assassin		hc*1000		250						leap/multijump	leap/multijump
+predator		hc*500		200						invisible	invisible
+bombardier		hc*400		200						killbomb/infbomb killbomb,speed
+dragon			hc*600		220						fly		fly
 +
-alien			hc*800		280								speed,leap,multijump,split
-cerberus		hc*400		300								speed,madness
-csernobil fly		hc*200		200								fly, split
+alien			hc*800		280						split/regenerate speed,leap,multijump,split,regenerate
+cerberus		hc*400		300						speed/madness	speed,madness
+csernobil fly		hc*200		200						fly/split	fly, split
 
 
 HUMAN BOSS CLASSOK:
-survivor		z*400		350								speed,minigun,unlimited ammo
-sniper			z*250		250								regenerate,goldenawp,unlimited ammo
-spy			z*100		220								invisible, goldenusp,goldenscout,crowbar,norecoil
-wesker			z*100		240								regenerate,goldendeagle,unlimited ammo
-berserker		z*150		240								healing, fireandicepistol,
+survivor		z*400		350				minigun,speed,unl.ammo		speed,minigun,unlimited ammo,norecoil
+sniper			z*250		250				goldenawp,regenerate,unl.ammo 	regenerate,goldenawp,unlimited ammo
+spy			z*100		220				gusp/gscout,invisible,norecoil	invisible, goldenusp,goldenscout,crowbar,norecoil
+wesker			z*100		240				gdeagle,regenerate		regenerate,goldendeagle,unlimited ammo
+berserker		z*150		240				fireandicedual,healing		healing, fireandicepistol,
 +
-plasmaman		100		240								speed,plasmarifle,scream
-iceman			100		200								madness,frozengalil
+plasmaman		100		240				plasmarifle,scream		speed,plasmarifle,scream
+iceman			100		200				frozengalil,madness		madness,frozengalil
 
 REWARDS GLOBAL
 
