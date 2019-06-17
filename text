@@ -1,18 +1,18 @@
 koncepcio:																max létszámnál		5 játékosnál		játékos átlag		jó játékos
-zpsp:
-zombi fertőzés/kill után kap 1 ammo  		1 körben 					max 31				max 4					átlag 2-3		5-10
-nemesis kill után 1 ammo					1 kör						max 31				max 4					10-31			20-31				
+zpsp:									32 játékos			10 játékos
+zombi fertőzés/kill után kap 1 ammo  		1 körben 		0-31				 4-9					átlag 2-3		5-10
+nemesis kill után 1 ammo			1 kör			0-31				4-9					10-31			20-31				
 
-ember  damageután kap ammo (1000/1)			1 körben normál fertőzés	max 120				max 32					átlag 6- 10		30-50
-											raj/többszörös				max 120				max 20					átlag 6-10		30-50
-											nemesis kör					max 60				max 10					átlag 0-30		30-50
+ember  damageután kap ammo (1000/1)		1 körben normál 	max 120				max 32					átlag 6- 10		30-50
+						raj/többszörös		max 120				max 20					átlag 6-10		30-50
+						nemesis kör		max 60				max 10					átlag 0-30		30-50
 											
 											
 											
 											
 változtatás: zombie infect reward 3
 +z+h    boss reward bekapcsolva úgy átlagosan 5-30 ammo /kör minden zombinak
-											  5-50 ammo/kör minden embernek
+					5-50 ammo/kör minden embernek
 
 
 ember alapcuccok árai 5-10 ammo
@@ -143,6 +143,9 @@ kill/		3ammo
 
 HUMAN BOSS REWARD
 1000dmg	/	1ammo
+
+KILL ZOMBI BOSS	20ammo
+KILL HUMAN BOSS	20ammo
 
 
 
